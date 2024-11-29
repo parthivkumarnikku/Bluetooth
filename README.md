@@ -1,3 +1,7 @@
+[![Bluetooth](https://img.shields.io/badge/Bluetooth-0078D7?style=for-the-badge&logo=bluetooth&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Systemd](https://img.shields.io/badge/Systemd-003B57?style=for-the-badge&logo=systemd&logoColor=white)](#)
+
 # Bluetooth
 There is an issue that Bluetooth doesn't work in Dual booted kali over windows 11 and here is the solution for this
 
