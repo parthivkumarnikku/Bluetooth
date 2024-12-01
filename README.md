@@ -3,7 +3,11 @@
 [![Systemd](https://img.shields.io/badge/Systemd-003B57?style=for-the-badge&logo=systemd&logoColor=white)](#)
 
 # Bluetooth
-There is an issue that Bluetooth doesn't work in Dual booted kali over windows 11 and here is the solution for this
+There is an issue that Bluetooth doesn't work in Dual booted kali over windows 11 and here is the solution for this.
+This issue persists in most Linux distributions because the Bluetooth daemon doesn't start on boot. The user has to explicitly start it using the command below every time they boot into the system.
+```bash
+sudo systemctl start bluetooth
+```
 
 # Enable and Start the Bluetooth Daemon on Linux
 
